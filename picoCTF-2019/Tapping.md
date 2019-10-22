@@ -17,9 +17,10 @@ Let's trynna navigate to the server using netcat to port 37920 first.
 ```
 $ nc 2019shell1.picoctf.com 37920
 .--. .. -.-. --- -.-. - ..-. { -- ----- .-. ... ...-- -.-. ----- -.. ...-- .---- ... ..-. ..- -. ...-- ----. -.... ----- ---.. ..... ....- ...-- ----. --... }
+
 ```
 
-The server returned a string with dots and dashes. And look at the format I was pretty sure it's morse code.
+The server returned a string with dots and dashes. And looking at the format, I was pretty sure it's morse code.
 
 ## Solutions
 
