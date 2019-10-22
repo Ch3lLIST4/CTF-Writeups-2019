@@ -12,5 +12,5 @@ The 2019 competition was held between September 27, 2019 and October 11, 2019. T
 
 If you are a teacher or employer, help us [spread the word](https://picoctf.com/cta) about picoCTF to more people.
 
-## My result on this competition:
+## My result:
 ![result-picoCTF2019](https://github.com/Ch3lLIST4/CTF-Writeups-2019/blob/master/images/result_picoCTF2019.png)
