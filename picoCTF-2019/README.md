@@ -1,5 +1,6 @@
-# PicoCTF 2019
+# PicoCTF 2019 - World's largest Hacking competition
 
+Read more about picoCTF [here](https://picoctf.com/about)
 
 ## What is picoCTF?
 
