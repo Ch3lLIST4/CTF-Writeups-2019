@@ -12,7 +12,7 @@ Another rockstar challenge.
 
 I just used [this website](https://codewithrockstar.com/online) just like the previous rockstar challenge. 
 
-But now you'll notice that something's not right. Every time we hit compile and run, an alert box pops up. This is because it is asking for a user input. So we get rid of the ```Listen``` function and those variables and codes that are related.
+But now you'll notice that something's not right. Every time we hit compile and run, an alert box pops up. This is because it is asking for a user input. So we get rid of the ```Listen``` function and those ```if else``` functions that require the same variables.
 
 ```
 Fixed code:
@@ -44,7 +44,7 @@ Shout "Bring on the rock!"
               
 Break it down 
 ```
-
+Click the button once again, there will be no alert box!
 ```
 Output:
 Keep on rocking!
