@@ -1,4 +1,4 @@
-# mus1c
+# mus1c - Points: 300
 
 ## Problem
 > I wrote you a [song](https://2019shell1.picoctf.com/static/200c6d216520c81a66af2c005736ae85/lyrics.txt). Put it in the picoCTF{} flag format
