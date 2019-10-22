@@ -14,7 +14,7 @@ On this challenge, they give us the image file which has png extension without a
 
 ## Solutions
 
-I tried to run zsteg on the file and as I expected, it's just a basic LSB (Least Significant Bit) technique which hides secret information lowest bits in the series of numbers in binary.
+I tried to run zsteg on the file and as I expected, it's just a basic LSB (Least Significant Bit) technique which hides secret information using the lowest bits in the series of numbers in binary.
 
 ```
 $ zsteg buildings.png
