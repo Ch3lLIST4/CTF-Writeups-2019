@@ -73,7 +73,7 @@ i:67867967
 n/i:73176001
 ```
 
-I tried ```picoCTF{67867967,73176001}``` But it wasn't correct. Therefore, the correct one should be
+I tried ```picoCTF{67867967,73176001}``` . However, it wasn't the correct answer. Therefore, the correct one should be
 
 flag:
 ```
