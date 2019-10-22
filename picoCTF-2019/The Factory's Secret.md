@@ -3,6 +3,9 @@
 ## Problem
 > There appear to be some mysterious glyphs hidden inside this [abandoned factory](https://2019game.picoctf.com/game)... I wonder what would happen if you collected them all?
 
+## Hints
+> Submit your answer in our competition's flag format. For example, if you answer was 'hello', you would submit 'picoCTF{hello}' as the flag.
+
 ## Overview
 
 Not actually a challenge but it was pretty fun goin through, its a great introduction to CTF in general especially for beginners
