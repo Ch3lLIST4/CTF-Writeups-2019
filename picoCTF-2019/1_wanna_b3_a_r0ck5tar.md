@@ -10,16 +10,60 @@ Another rockstar challenge.
 
 ## Solutions
 
-I didn't bother open up a file editor to analyze.
+I just used [this website](https://codewithrockstar.com/online) just like the previous rockstar challenge. 
 
-Instead I ran this command on my windows subsystem for extracting the text part that I needed.
+But now you'll notice that something's not right. Every time we hit compile and run, an alert box pops up. This is because it is asking for a user input. So we get rid of the ```Listen``` function and those variables and codes that are related.
 
 ```
-$ strings garden.jpg | grep picoCTF
-Here is a flag "picoCTF{more_than_m33ts_the_3y3cD8bA96C}"
+Fixed code:
+
+Rocknroll is right              
+Silence is wrong                
+A guitar is a six-string        
+Tommy's been down               
+Music is a billboard-burning razzmatazz!
+                
+Say "Keep on rocking!"                
+
+Tommy is rockin guitar
+Shout Tommy!                    
+Music is amazing sensation 
+Jamming is awesome presence
+Scream Music!                   
+Scream Jamming!                 
+Tommy is playing rock           
+Scream Tommy!       
+They are dazzled audiences                  
+Shout it!
+Rock is electric heaven                     
+Scream it!
+Tommy is jukebox god            
+Say it!                                     
+Break it down
+Shout "Bring on the rock!"
+              
+Break it down 
+```
+
+```
+Output:
+Keep on rocking!
+66
+79
+78
+74
+79
+86
+73
+```
+
+Convert it to ASCII, we'll have:
+
+```
+BONJOVI
 ```
 
 So, the flag is:
 ```
-picoCTF{more_than_m33ts_the_3y3cD8bA96C}
+picoCTF{BONJOVI}
 ```
