@@ -12,6 +12,8 @@
 
 ## Overview
 
+This is the last crypto challenge I believe
+
 They give us a cert file and obviously this is PEM certificate file type
 ```
 $ file cert
@@ -43,7 +45,7 @@ MCIwDQYJKoZIhvcNAQEBBQADEQAwDgIHEaTUUhKxfwIDAQAB
 -----END PUBLIC KEY-----
 ```
 
-This Modulus (n) looks pretty short, I decided to extract p and q using a script. Luckily i found a [function](https://stackoverflow.com/questions/40200089/number-prime-test-in-javascript) for prime checking
+This Modulus (n) looks pretty short, so I decided to extract p and q using a script. Luckily i found a [function](https://stackoverflow.com/questions/40200089/number-prime-test-in-javascript) for prime checking
 ```js
 //guess primes from modulus
 // isPrime ?
@@ -71,7 +73,7 @@ i:67867967
 n/i:73176001
 ```
 
-I tried ```picoCTF{67867967,73176001}``` But it wasn't correct. Therefore, the correct one should be:
+I tried ```picoCTF{67867967,73176001}``` But it wasn't correct. Therefore, the correct one should be
 
 flag:
 ```
