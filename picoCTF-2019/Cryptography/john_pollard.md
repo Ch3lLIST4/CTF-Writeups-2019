@@ -24,8 +24,7 @@ Based on the hints, we just simply need to extract p and q values from this pem.
 
 Let's extract the public key first from the attached certificate:
 ```
-$ openssl x509 -pubkey -noout -in cert > ke
-y.pub
+$ openssl x509 -pubkey -noout -in cert > key.pub
 ```
 Now we have the RSA public key 
 ```
