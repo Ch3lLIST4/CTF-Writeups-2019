@@ -18,7 +18,7 @@ Just a really basic web exploitation challenge using inspector for source code a
 Go to the link and navigate to the inspector of your browser, Me simply presses Ctr-U. 
 
 There are 3 parts of the flag in every corner of the website including their css and js files. 
-Combine them all together and you'll get the flag
+Combine them all together and you'll get the flag!
 
 flag:
 ```
