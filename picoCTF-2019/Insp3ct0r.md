@@ -1,4 +1,4 @@
-# The Factory's Secret
+# Insp3ct0r - Points: 50
 
 ## Problem
 >  Kishor Balan tipped us off that the following code may need inspection: https://2019shell1.picoctf.com/problem/63975/ ([link](https://2019shell1.picoctf.com/problem/63975/)) or http://2019shell1.picoctf.com:63975
