@@ -13,7 +13,7 @@ As you can see, this challenge is related to the hex editor. They give you the f
 
 ## Solutions
 
-I didn't bother open up a file editor to analyze.
+I didn't bother open up a file editor for analyzing,
 
 Instead I ran this command on my windows subsystem for extracting the text part that I needed.
 
