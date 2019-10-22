@@ -2,7 +2,7 @@
 
 Read more about picoCTF [here](https://picoctf.com/about)
 
-![Image of Yaktocat](https://github.com/Ch3lLIST4/CTF-Writeups-2019/images/picoCTF2019.jpg)
+![picoCTF2019](https://github.com/Ch3lLIST4/CTF-Writeups-2019/blob/master/images/picoCTF2019.jpg)
 
 ## World's largest Hacking competition
 
