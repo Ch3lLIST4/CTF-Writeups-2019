@@ -1,4 +1,4 @@
-# 1_wanna_b3_a_r0ck5tar
+# 1_wanna_b3_a_r0ck5tar - Points: 350
 
 ## Problem
 > I wrote you another [song](https://2019shell1.picoctf.com/static/ec882df63f9d0cfb8505879e0bc48c88/lyrics.txt). Put the flag in the picoCTF{} flag format
