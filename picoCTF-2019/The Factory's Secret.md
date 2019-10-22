@@ -19,15 +19,16 @@ There are actually a few basic crypto challenges on the way and it might take yo
 
 Once you've collected all the fragments, you can see that its basically just QR code, so start scanning it using any QR scanning devices.
 
-This is the result
+This is the result of the QR code:
 ```
 password: xmfv53uqkf621gakvh502gxfu1g78glds
 ```
 
 Use this password as the lost password to access the computer in the previous room, then you'll be able to see the secret conversation including the secret password as zerozerozerozero
 
-So we know the answer for this challenge is
+So we know the answer for this challenge is,
 
+flag:
 ```
-flag: picoCTF{zerozerozerozero}
+picoCTF{zerozerozerozero}
 ```
