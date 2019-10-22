@@ -17,9 +17,8 @@ Just reverse the entire function to see the required string which is also the fl
 
 ## Solutions
 
-```java
 My code:
-
+```java
 package test;
 class Test {
  public static void main(String args[]) {
