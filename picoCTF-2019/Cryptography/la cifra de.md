@@ -41,7 +41,7 @@ Gplrfdo’y xpcuso butvlky lpvjlrki tn 1555 gx l cuseitzltoty ol yse lncsz. Yse 
 It looks like this is a kind of cipher, specifically ```substitution cipher```, and looking at this part```...hgqqpohzCZK{m311a50_0x_a1rn3x3_h1ah3xf653pdkh}``` . This is probably where the flag is.
 
 ## Solutions
-Let's see if it's actually Caesar or not, because Ceasar cipher is one of the earliest known and simplest ciphers. However, ```pohzCZK``` cannot be shifted anyhow to become ```picoCTF``` because there are ```p``` and ```C``` in the correct positions already as you can see.
+Let's see if it's actually Caesar or not, since Ceasar cipher is one of the earliest known and simplest ciphers. However, ```pohzCZK``` cannot be shifted anyhow to become ```picoCTF``` because there are ```p``` and ```C``` in the correct positions already as you can see.
 
 This makes me wanna try another common substitution cipher which is Vigenere cipher, but this particular cipher needs a key to be decoded. Therefore, I'll use a [really great online tool](https://www.guballa.de/vigenere-solver) to guess.
 
