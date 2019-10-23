@@ -14,3 +14,4 @@ If you are a teacher or employer, help us [spread the word](https://picoctf.com/
 
 ## My Final Result:
 ![result-picoCTF2019](https://github.com/Ch3lLIST4/CTF-Writeups-2019/blob/master/images/result_picoCTF2019.png)
+*This is a bit late writeups due to lots of works recently
