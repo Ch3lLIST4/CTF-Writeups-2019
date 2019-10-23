@@ -65,7 +65,7 @@ for (i = 0 ; i<n; i++){
   }
 }
 ```
-Run it using [nodejs](https://nodejs.org)
+Run it using [nodejs](https://nodejs.org) or just use your browser console
 ```
 Output:
 >node guess.js
