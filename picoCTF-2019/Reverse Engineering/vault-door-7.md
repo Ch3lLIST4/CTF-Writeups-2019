@@ -55,6 +55,8 @@ public class Test {
 ```
 Hit compile and run
 ```
+Output:
+
 run:
 A_b1t_0f_b1t_sh1fTiNg_fe1e495a1c
 ```
