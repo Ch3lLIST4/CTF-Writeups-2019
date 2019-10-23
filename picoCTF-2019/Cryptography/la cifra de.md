@@ -20,6 +20,7 @@ In this challenge, we are given the following domain and port.
 Let's try connecting to it via TCP.
 ```
 $ nc 2019shell1.picoctf.com 12254
+
 Encrypted message:
 ﻿Ne iy nytkwpsznyg nth it mtsztcy vjzprj zfzjy rkhpibj nrkitt ltc tnnygy ysee itd tte cxjltk
 
@@ -36,9 +37,6 @@ Tnj Gimjyèrk Htpnjc iy ysexjqoxj dosjeisjd cgqwej yse Gqmexyt Doxn ox Fwbkwei I
 Tn 1508, Ptsatsps Zwttnjxiax tnbjytki ehk xz-cgqwej ylbaql rkhea (g rltxni ol xsilypd gqahggpty) ysaz bzuri wazjc bk f nroytcgq nosuznkse ol yse Bnretèwp Cousex.
 
 Gplrfdo’y xpcuso butvlky lpvjlrki tn 1555 gx l cuseitzltoty ol yse lncsz. Yse rthex mllbjd ol yse gqahggpty fce tth snnqtki cemzwaxqj, bay ehk fwpnfmezx lnj yse osoed qptzjcs gwp mocpd hd xegsd ol f xnkrznoh vee usrgxp, wnnnh ify bk itfljcety hizm paim noxwpsvtydkse.
-
-
-
 ```
 It looks like this is a kind of cipher, specifically ```substitution cipher```, and looking at this part```...hgqqpohzCZK{m311a50_0x_a1rn3x3_h1ah3xf653pdkh}``` . This is probably where the flag is.
 
