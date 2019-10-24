@@ -18,9 +18,9 @@ They hand us a pcap file, so obviously imma open it using wireshark. Let's analy
 
 As the hint said, we would check the stream first. Go to Analyze and follow UDP stream.
 
-Simply as that, I found the flag at stream 6.
+Simple as that, I found the flag at stream 6.
 
-
+-----
 
 flag:
 ```
