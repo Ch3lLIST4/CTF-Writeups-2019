@@ -18,9 +18,9 @@ The real problem are those numbers. What's that kind of cipher anyways ?
 
 ## Solutions
 
-These pairs of numbers are like coordinates and that's the first thing I think of when I look at these numbers, especially when the title is ```Worldwide```. Let's try using some tools online to investigate these locations. I simply just used Google Map.
+Looking at these pairs of numbers, the first thing I thought of is coordinates, especially when the title is ```Worldwide```. Let's try using some tools online to investigate these locations. I simply just used Google Map.
 
-Then I tried concatenate all of the locations using their country names. I even investigate all of the pictures that related to the locations and so on, but I failed.. then I kept trying and trying until I found this. 
+Then I tried concatenate all of the locations using their country names. I even investigate all of the pictures that related to the locations and so on, and I thought I was wondering if I was on the wrong path the whole time.. then I kept trying and trying until I found this. 
 
 ```
 [K]yoto             (35.028309, 135.753082)
@@ -37,7 +37,7 @@ _
 [K]odiak            (57.790001, -152.407227)
 [A]lexandria        (31.205753, 29.924526)
 ```
-I thought it was the city names but it wasn't. I actually tried to zoom out a lil bit for each location and get the first highlighted word which I believe is either city or region then I googled for the string and the google autocorrect system helped.
+I thought it was the city names but it wasn't. I actually tried to zoom out a lil bit for each location and get the first highlighted word which I believe is either cities or regions then I googled for the string and the google autocorrect system really helped me out.
 
 flag:
 ```
