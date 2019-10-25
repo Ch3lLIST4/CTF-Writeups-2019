@@ -14,7 +14,7 @@ picoCTF{(35.028309, 135.753082)(46.469391, 30.740883)(39.758949, -84.191605)(41.
 ```
 It looks like it really is the flag and it's in the right format already. I guessed there were 2 parts and 6 characters for each part.
 
-The real problem are those numbers. What's that kind of cipher anyway ?
+The real problem are those numbers. What's that kind of cipher anyways ?
 
 ## Solutions
 
