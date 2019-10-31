@@ -20,7 +20,7 @@ The real problem are those numbers. What's that kind of cipher anyways ?
 
 Looking at these pairs of numbers, the first thing I thought of is coordinates, especially when the title is ```Worldwide```. Let's try using some tools online to investigate these locations. I simply just used Google Map.
 
-Then I tried concatenate all of the locations using their country names. I even investigate all of the pictures that related to the locations and so on, and I thought I was wondering if I was on the wrong path the whole time.. then I kept trying and trying until I found this. 
+Then I tried concatenate all of the locations using their country names. I even investigate all of the pictures that related to the locations and so on, and I was wondering if I was on the wrong path the whole time.. then I kept trying and trying until I found this. 
 
 ```
 [K]yoto             (35.028309, 135.753082)
